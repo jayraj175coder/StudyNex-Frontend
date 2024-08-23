@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/CommunityOfCoders/Inheritance-2023">
-    <img src="./COC.png" alt="CoC Inheritance 2022" width="500" height="166">
-  </a>
+  
   <br>
   StudyNex
 </h1>
@@ -23,9 +21,7 @@
 - [Applications](#applications)
 - [Project Setup](#project-setup)
 - [Usage](#usage)
-- [Team Members](#team-members)
-- [Mentors](#mentors)
-- [Screenshots](#screenshots)
+
 
 </details>
 
@@ -56,8 +52,8 @@ User can also view their profile which is updated along with the active particip
 - [Demo Video](https://drive.google.com/file/d/124V86987H4GDjUDFO19R47xkGZFwROIy/view?usp=sharing)
 - [Drive Link to Screenshots of our project](https://drive.google.com/drive/u/0/folders/1SO5D0wcPvpkKoNYzMFf_jomTEUIrriit)
 - [Drive Link to Videos of our project](https://drive.google.com/drive/u/0/folders/19i1YtuBz9lga8as0H9QUNCLvsRvEXIkm)
-- [Hosted Website Link](https://study-nex.vercel.app/)
-- [Hosted Backend Link](https://study-nex-backend.onrender.com)
+- [Hosted Website Link](https://study-nex-frontend.vercel.app/)
+- [Hosted Backend Link](https://studynex-backend.onrender.com)
 
 
 ## 🤖Tech-Stack
@@ -146,20 +142,7 @@ to install all the required dependecies.Then can simply run 'npm run dev' to sta
 - Users must required to add .env file in order to run the project. 
 - Then they can simply run 'npm run dev' to start the project.
 
-## 👨‍💻Team Members
 
-Add names of your team members with their emails and links to their GitHub accounts
-
-- [Team Member 1 Aaditya Jayant Padte](https://github.com/Aaditya8C): aadityajp0419@gmail.com
-- [Team Member 2 Vedant Mahendra Kale](https://github.com/VedantKale08): vedantkale8114@gmail.com
-- [Team Member 3 Aniket Suresh Jadhav](https://github.com/DevAniket010): aj230375@gmail.com
-
-## 👨‍🏫Mentors
-
-Add names of your mentors with their emails and links to their GitHub accounts
-
-- [Mentor 1 Riya Kasture](https://github.com/Riya-1508): kastureriya@gmail.com 
-- [Mentor 2 Asmita Raina](https://github.com/AsmitaRaina): asmitaraina2003@gmail.com 
 
 ## 📱Screenshots
 
@@ -176,9 +159,6 @@ Add names of your mentors with their emails and links to their GitHub accounts
 ![Screenshot from 2024-02-08 16-31-11](https://github.com/COD-23/StudyNex---Frontend/assets/148361286/82e3192e-0eeb-4a45-ae8c-8730581d5921)
 
 
-You can find more detailed images here:
-
-https://drive.google.com/drive/u/0/folders/1tLz-WQNdnF-1BthTvVhtKjemQnMTbjrG
 
 
 
